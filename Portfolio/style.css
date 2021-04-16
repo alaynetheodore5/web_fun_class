@@ -1,0 +1,30 @@
+
+
+.subcontents {
+  height: 600px;
+  width: 300px;
+  display: inline-block;
+  /* background-color:rgb(180, 203, 224); */
+  background: radial-gradient(circle, rgba(121,51,135,1) 10%, rgba(24,24,24,1) 100%);
+}
+
+.port-pics {
+  height: 100px;
+}
+
+.technologies {
+  height: 250px;
+  background-color: blueviolet;
+  padding: 5px;
+}
+
+.tech-icons {
+  height: 50px;
+  width: 50px;
+  margin: 3px;
+}
+
+button {
+  background-color: green;
+  text-align: center;
+}
